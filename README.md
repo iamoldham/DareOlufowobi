@@ -7,10 +7,10 @@
 
 I'm a DevOps Engineer wit Software Engineer and IT Insfrastructure skills. I care about how software solutions improve user experience hence, an ardent proponent of DevOps and automation.
 
-- 🔭 I share technical knowledge on [Dareolufowobi.dev](https://dareolufowobi.dev/why-i-blog/)
+- 🔭 I share technical knowledge on [oldhamtec.com](https://oldhamtec.com)
 - 🌱 I'm currently learning Kubernetes
-- 💬 Ask me about [DevOps](https://chiamakaikeanyi.dev/tag/accessibility/)
-- ⚡ I enjoy playing Chess, Poll [poll](https://medium.com/poesie) and Tennis.
+- 💬 Ask me about [DevOps](https://oldhamtec.com)
+- ⚡ I enjoy playing Chess, Poll and Tennis.
 
 
 ### Languages and Tools
