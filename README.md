@@ -5,7 +5,7 @@
 
 ---
 
-I'm a DevOps Engineer wit Software Engineer and IT Insfrastructure skills. I care about how software solutions improve user experience hence, an ardent proponent of DevOps and automation.
+I'm a DevOps Engineer wit Software Engineer and IT Infrastructure skills. I care about how software solutions improve user experience hence, an ardent proponent of DevOps and automation.
 
 - 🔭 I share technical knowledge on [oldhamtec.com](https://oldhamtec.com)
 - 🌱 I'm currently learning Kubernetes
